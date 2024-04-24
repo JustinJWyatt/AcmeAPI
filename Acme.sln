@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.API", "Acme.API\Acme.API.csproj", "{739213E5-8CD8-4777-B66E-FA33BE16DE59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acme.Test", "Acme.Test\Acme.Test.csproj", "{981013E7-42F6-4A0F-8490-ECFD24A868C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739213E5-8CD8-4777-B66E-FA33BE16DE59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739213E5-8CD8-4777-B66E-FA33BE16DE59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739213E5-8CD8-4777-B66E-FA33BE16DE59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739213E5-8CD8-4777-B66E-FA33BE16DE59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981013E7-42F6-4A0F-8490-ECFD24A868C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981013E7-42F6-4A0F-8490-ECFD24A868C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981013E7-42F6-4A0F-8490-ECFD24A868C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981013E7-42F6-4A0F-8490-ECFD24A868C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6F7F84-A84D-4678-A8BE-0D18BC902B6D}
+	EndGlobalSection
+EndGlobal
